@@ -1,3 +1,6 @@
+
+![image](https://github.com/luanalouza/luanalouza/assets/95712511/ceb0a4d3-8829-4134-b2ef-a430434ba087)
+
 ### Hi there 👋
 
 <!--
