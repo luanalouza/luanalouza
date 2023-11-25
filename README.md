@@ -3,6 +3,36 @@
 
 ### Hi there 👋
 
+Hello, I'm Luana Louza, a highly motivated student from Brazil. I'm currently studying software development and am eager to drive innovation in the tech industry.
+
+## About Me
+
+I'm passionate about technology and always looking for exciting opportunities to learn and grow. My goal is to contribute to projects that make a difference.
+
+## Skills
+
+Here are some of the key skills I've acquired:
+
+1. **Python**
+2. **Data Analysis**
+3. **SQL**
+4. **GitHub**
+5. **Docker**
+6. **Scrum**
+7. **C#**
+8. **HTML/CSS**
+9. **Linux**
+10. **Network Security**
+
+## Projects
+
+I'm constantly working on projects to improve my skills and learn new technologies. You can check out my repositories for more details.
+
+## Contact Me
+
+Feel free to reach out if you have any questions or if you want to collaborate on a project. I'm always open to new ideas and opportunities.
+
+
 <!--
 **luanalouza/luanalouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
