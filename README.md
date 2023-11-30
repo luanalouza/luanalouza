@@ -69,10 +69,13 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
 
-## 🦄 Languages & Tools:
+##  Languages & Tools:
 <p align="center">
 <img src="https://i.imgur.com/D7WxMFu.png" alt="GitHub" width="100"/>
+<h2>GitHub</h2>
+  
 <img src="https://i.imgur.com/JRsMV4M.png" alt="Python" width="100"/>
+<h2>Python</h2>
 </p>
 
 
