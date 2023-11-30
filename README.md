@@ -70,26 +70,31 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 
 ## 🦄 Languages & Tools:
-<div style="display: flex; align-items: center;">
-    <p style="margin-right: 20px;">
+<style>
+  .section-container {
+    display: flex;
+    align-items: center;
+    margin-bottom: 20px;
+  }
+
+  .section-container p {
+    margin-right: 20px;
+  }
+</style>
+
+<div class="section-container">
+    <p>
         <img src="https://i.imgur.com/D7WxMFu.png" alt="GitHub"/>
     </p>
     <h2>GitHub</h2>
 </div>
 
-<div style="display: flex; align-items: center;">
-    <p style="margin-right: 20px;">
+<div class="section-container">
+    <p>
         <img src="https://i.imgur.com/JRsMV4M.png" alt="Python"/>
     </p>
     <h2>Python</h2>
 </div>
 
 
-## Profile Visitor Count
 
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/louzaluana/count.svg"
-    alt="Illustration of profile visitors"
-  />
-</p>
