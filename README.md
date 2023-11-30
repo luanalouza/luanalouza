@@ -42,7 +42,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ## Profile Stats
 
-<table>
+[<table>
   <tr>
     <td>
       <img
