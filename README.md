@@ -42,8 +42,8 @@ Hello, I'm Luana Louza, a passionate and highly motivated student from Brazil. C
 ## Skills
 
 Here are some key skills I've acquired on my journey:
- - Python - Data Analysis - SQL -GitHub   - Docker - Scrum - C# - HTML\CSS - Linux
-- Network Security
+● Python ● Data Analysis ● SQL ● GitHub   ● Docker ● Scrum ● C# ● HTML/CSS ● Linux
+● Network Security
   
 ## Projects
 
