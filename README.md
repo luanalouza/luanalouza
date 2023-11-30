@@ -73,6 +73,8 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ![GitHub](https://i.imgur.com/D7WxMFu.png)
 <h2>GitHub</h2>
+![Python](https://i.imgur.com/JRsMV4M.png)
+<h2>Python</h2>
 
 
 <br>
