@@ -42,7 +42,7 @@ Hello, I'm Luana Louza, a passionate and highly motivated student from Brazil. C
 ## Skills
 
 Here are some key skills I've acquired on my journey:
-<p align-text = center
+<p align-text = center 
 - Python
 - Data Analysis
 - SQL
@@ -50,10 +50,10 @@ Here are some key skills I've acquired on my journey:
 - Docker
 - Scrum
 - C#
-- HTML/CSS
+- HTML\CSS
 - Linux
 - Network Security
-<\p>
+/p>
 ## Projects
 
 I'm constantly working on projects to improve my skills and explore new technologies. Check out my repositories for more details.
