@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Luana Louza from Anápolis, Goiás, Brazil 🇧🇷
+# Hi there! 👋 I'm Luana Louza from Anápolis, Goiás, Brazil 
 
 <img align="right" width="400" alt="illustration of a computer" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
@@ -33,7 +33,7 @@ I'm constantly working on projects to improve my skills and explore new technolo
 
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm open to new ideas and opportunities.
 
-- [LinkedIn](https://www.linkedin.com/in/louzaluana)
+- [LinkedIn](https://www.linkedin.com/in/luana-louza/)
 - [GitHub](https://github.com/louzaluana)
 
 ## 🦄 Languages & Tools:
