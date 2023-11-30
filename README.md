@@ -68,7 +68,6 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
  <a href="https://wa.me/+5562996918913" title="WhatsApp" target="_blank">
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
 
-- [GitHub](https://github.com/louzaluana)
 
 ## 🦄 Languages & Tools:
 
