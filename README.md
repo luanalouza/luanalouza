@@ -62,12 +62,17 @@ I'm constantly working on projects to improve my skills and explore new technolo
 
 Feel free to reach out if you have any questions or want to collaborate on a project. I'm open to new ideas and opportunities.
 
-- [LinkedIn](https://www.linkedin.com/in/luana-louza/)
+<a href="https://www.linkedin.com/in/luana-louza/" title="LinkedIn" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+ 
+ <a href="https://wa.me/+5562996918913" title="WhatsApp" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+
 - [GitHub](https://github.com/louzaluana)
 
 ## 🦄 Languages & Tools:
 
-<!-- Insert your shields/badges here -->
+https://www.python.org/static/img/python-logo@2x.png
 
 
 <br>
