@@ -70,17 +70,10 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 
 ## 🦄 Languages & Tools:
-<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
-    <div style="margin-right: 20px;">
-        <img src="https://i.imgur.com/D7WxMFu.png" alt="GitHub" width="100"/>
-        <h2>GitHub</h2>
-    </div>
-    
-    <div>
-        <img src="https://i.imgur.com/JRsMV4M.png" alt="Python" width="100"/>
-        <h2>Python</h2>
-    </div>
-</div>
+
+<img src="https://i.imgur.com/D7WxMFu.png" alt="GitHub" width="100"/>
+<img src="https://i.imgur.com/JRsMV4M.png" alt="Python" width="100"/>
+
 
 
 
