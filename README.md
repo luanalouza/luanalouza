@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Luana Louza, Software engineer from Anápolis, Goiás, Brazil
+9# Hi there! 👋 I'm Luana Louza, Software engineer from Anápolis, Goiás, Brazil
 
 <img align="right" width="400" alt="illustration of a computer" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
@@ -66,7 +66,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 <p align="center">
   <img
-    src="https://profile-counter.glitch.me/danieldribeiro/count.svg"
+    src="https://profile-counter.glitch.me/louzaluana/count.svg"
     alt="IlustraÃ§Ã£o do nÃºmero de visitantes no perfil"
   />
 </p>
