@@ -70,30 +70,16 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 
 ## 🦄 Languages & Tools:
-<style>
-  .section-container {
-    display: flex;
-    align-items: center;
-    margin-bottom: 20px;
-  }
-
-  .section-container p {
-    margin-right: 20px;
-  }
-</style>
-
-<div class="section-container">
-    <p>
-        <img src="https://i.imgur.com/D7WxMFu.png" alt="GitHub"/>
-    </p>
-    <h2>GitHub</h2>
-</div>
-
-<div class="section-container">
-    <p>
-        <img src="https://i.imgur.com/JRsMV4M.png" alt="Python"/>
-    </p>
-    <h2>Python</h2>
+<div style="display: flex; justify-content: space-between; margin-bottom: 20px;">
+    <div style="margin-right: 20px;">
+        <img src="https://i.imgur.com/D7WxMFu.png" alt="GitHub" width="100"/>
+        <h2>GitHub</h2>
+    </div>
+    
+    <div>
+        <img src="https://i.imgur.com/JRsMV4M.png" alt="Python" width="100"/>
+        <h2>Python</h2>
+    </div>
 </div>
 
 
