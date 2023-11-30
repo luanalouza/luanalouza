@@ -71,7 +71,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ## 🦄 Languages & Tools:
 
-![GitHub](https://i.imgur.com/HrXpp1k.png)
+![GitHub](https://i.imgur.com/S6tfQrz.png)
 
 
 <br>
