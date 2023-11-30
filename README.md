@@ -72,20 +72,6 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 <br>
 
-## Trophy Cabinet
-
-<p align="center">
-  <a
-    href="https://github.com/ryo-ma/github-profile-trophy"
-    title="repositório de troféus"
-  >
-    <img
-      width="800"
-      src="https://github-profile-trophy.vercel.app/?username=louzaluana&column=8&theme=darkhub&no-frame=true&no-bg=true"
-    />
-  </a>
-</p>
-
 ## Profile Visitor Count
 
 <p align="center">
