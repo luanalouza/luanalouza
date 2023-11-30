@@ -1,20 +1,60 @@
+# Hi there! 👋 I'm Luana Louza from Anápolis, Goiás, Brazil 🇧🇷
 
-![image](https://github.com/luanalouza/luanalouza/assets/95712511/ceb0a4d3-8829-4134-b2ef-a430434ba087)
+<img align="right" width="400" alt="illustration of a computer" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
+## About Me
+
+Hello, I'm Luana Louza, a passionate and highly motivated student from Brazil. Currently pursuing software development, I am enthusiastic about driving innovation in the tech industry.
+
+- 🎓 Studying Software Development
+- 🌱 Eager to learn and grow
+- 💻 Actively contributing to projects
+
+## Skills
+
+Here are some key skills I've acquired on my journey:
+
+- Python
+- Data Analysis
+- SQL
+- GitHub
+- Docker
+- Scrum
+- C#
+- HTML/CSS
+- Linux
+- Network Security
+
+## Projects
+
+I'm constantly working on projects to improve my skills and explore new technologies. Check out my repositories for more details.
+
+## Contact Me
+
+Feel free to reach out if you have any questions or want to collaborate on a project. I'm open to new ideas and opportunities.
+
+- [LinkedIn](https://www.linkedin.com/in/louzaluana)
+- [GitHub](https://github.com/louzaluana)
+
+## 🦄 Languages & Tools:
+
+<!-- Insert your shields/badges here -->
+
+## Profile Stats
 
 <table>
   <tr>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=luanalouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
+        src="https://github-readme-stats.vercel.app/api?username=louzaluana&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=louzaluana&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
         alt="Github stats"
       />
     </td>
@@ -22,57 +62,29 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=luanalouza&theme=dark&hide_border=false"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=louzaluana&theme=dark&hide_border=false"
         alt="Github stats"
       />
     </td>
   </tr>
 </table>
 
-### Hi there 👋
+<br>
 
-Hello, I'm Luana Louza, a highly motivated student from Brazil. I'm currently studying software development and am eager to drive innovation in the tech industry.
+## Trophy Cabinet
 
-## About Me
+<p align="center">
+  <img
+    width="800"
+    src="https://github-profile-trophy.vercel.app/?username=louzaluana&column=8&theme=darkhub&no-frame=true&no-bg=true"
+  />
+</p>
 
-I'm passionate about technology and always looking for exciting opportunities to learn and grow. My goal is to contribute to projects that make a difference.
+## Profile Visitor Count
 
-## Skills
-
-Here are some of the key skills I've acquired:
-
-1. **Python**
-2. **Data Analysis**
-3. **SQL**
-4. **GitHub**
-5. **Docker**
-6. **Scrum**
-7. **C#**
-8. **HTML/CSS**
-9. **Linux**
-10. **Network Security**
-
-## Projects
-
-I'm constantly working on projects to improve my skills and learn new technologies. You can check out my repositories for more details.
-
-## Contact Me
-
-Feel free to reach out if you have any questions or if you want to collaborate on a project. I'm always open to new ideas and opportunities.
-
-
-
-<!--
-**luanalouza/luanalouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/louzaluana/count.svg"
+    alt="Illustration of profile visitors"
+  />
+</p>
