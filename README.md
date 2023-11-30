@@ -1,4 +1,4 @@
-9# Hi there! 👋 I'm Luana Louza, Software engineer from Anápolis, Goiás, Brazil
+# Hi there! 👋 I'm Luana Louza, Software engineer from Anápolis, Goiás, Brazil
 
 <img align="right" width="400" alt="illustration of a computer" src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png">
 
