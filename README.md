@@ -71,7 +71,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ## 🦄 Languages & Tools:
 
-https://www.python.org/static/img/python-logo@2x.png
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
 
 
 <br>
