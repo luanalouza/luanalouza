@@ -71,7 +71,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 ## 🦄 Languages & Tools:
 
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://w7.pngwing.com/pngs/646/324/png-transparent-github-computer-icons-github-logo-monochrome-head-thumbnail.png)
 
 
 <br>
