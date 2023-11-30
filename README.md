@@ -70,15 +70,20 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 
 ## 🦄 Languages & Tools:
+<div style="display: flex; align-items: center;">
+    <p style="margin-right: 20px;">
+        <img src="https://i.imgur.com/D7WxMFu.png" alt="GitHub"/>
+    </p>
+    <h2>GitHub</h2>
+</div>
 
-![GitHub](https://i.imgur.com/D7WxMFu.png)
-<h2>GitHub</h2>
+<div style="display: flex; align-items: center;">
+    <p style="margin-right: 20px;">
+        <img src="https://i.imgur.com/JRsMV4M.png" alt="Python"/>
+    </p>
+    <h2>Python</h2>
+</div>
 
-![Python](https://i.imgur.com/JRsMV4M.png)
-<h2>Python</h2>
-
-
-<br>
 
 ## Profile Visitor Count
 
