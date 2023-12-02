@@ -22,11 +22,9 @@ Hello, I'm Luana Louza, a passionate and highly motivated student from Brazil. C
       />
     </td>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanalouza&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github stats"
-      />
+      <a href="https://github.com/felipealvescr" title="ilustração do mapeamento de linguagens">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipealvescr&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
     </td>
     <td>
       <br />
