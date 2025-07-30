@@ -64,8 +64,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 
 <p align="center">
   <img 
-    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluanalouza&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitors&edge_flat=false"
+    src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fluanalouza&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23FFFFFF&title=visitantes&edge_flat=false"
     alt="Contador de visitantes no perfil"
   />
 </p>
-
