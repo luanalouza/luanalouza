@@ -65,7 +65,7 @@ Feel free to reach out if you have any questions or want to collaborate on a pro
 <p align="center">
   <img
     src="https://profile-counter.glitch.me/luanalouza/count.svg"
-    alt="IlustraÃ§Ã£o do nÃºmero de visitantes no perfil"
+    alt="Ilustração do número de visitantes no perfil"
   />
 </p>
 
